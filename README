@@ -1,0 +1,6 @@
+This contains all the basic requirements for MERN Stack
+
+->db.js = Conecting Nodejs to MongoDB
+->index.js = app listeninng to port and running
+->models.js = Any modal connecting to the database
+->routes.js = Routes ke andar 
